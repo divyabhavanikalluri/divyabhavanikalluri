@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47prrzuvneq1spx9dzbd9bhkpl9kfls7gxsalj9uvr&rid=giphy.gif&ct=g"><br><br>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47prrzuvneq1spx9dzbd9bhkpl9kfls7gxsalj9uvr&rid=giphy.gif&ct=g"><br><br><br><br><br><br>
 <h1 align="center">Hi 👋, I'm Divya Bhavani</h1><br><br><br><br>
 <h3 align="center">A passionate frontend developer and Machine Learning Developer from India</h3>
 
