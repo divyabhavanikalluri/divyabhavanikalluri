@@ -1,6 +1,8 @@
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47prrzuvneq1spx9dzbd9bhkpl9kfls7gxsalj9uvr&rid=giphy.gif&ct=g"><br><br><br><br><br><br>
-<h1 align="center">Hi 👋, I'm Divya Bhavani</h1><br><br><br><br>
-<h3 align="center">A passionate frontend developer and Machine Learning Developer from India</h3>
+<h1 align="center"><font color ="black"><b><i>Hi 👋, I'm Divya Bhavani</i></b></font></h1><br>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif">
+
+<h3 align="center">A passionated frontend developer and Machine Learning Practioner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabhavanikalluri&label=Profile%20views&color=0e75b6&style=flat" alt="divyabhavanikalluri" /> </p>
 
@@ -8,11 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 👩🏻‍🎓 I'm currently studying Information Technology at Anurag University,Hyderabad.
+
 - 🔭 I’m currently working on **DataScience**
+
+- 💡 Some technologies I enjoy working with include Python,MySQL,Git,HTML,CSS,C,Linux,Machine Learning.
 
 - 💬 Ask me about **Android,Machine Learning,Datascience,Python**
 
-- ⚡ Fun fact **I am Funny**
+-  👩🏽‍🏫 I'm on track for learning more about Data Structures and Algorithm,Software Development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
