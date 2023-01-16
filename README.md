@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47prrzuvneq1spx9dzbd9bhkpl9kfls7gxsalj9uvr&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Divya Bhavani</h1>
-<h3 align="center">A passionate frontend developer and Machine Learning from India</h3>
+<h3 align="center">A passionate frontend developer and Machine Learning Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyabhavanikalluri&label=Profile%20views&color=0e75b6&style=flat" alt="divyabhavanikalluri" /> </p>
 
